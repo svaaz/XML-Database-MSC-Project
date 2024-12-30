@@ -1,0 +1,21 @@
+<xml>
+<professor>
+<name> prof john</name>
+<address>
+<university>AU</university>
+<country>india</country>
+</address>
+<teaching>
+<course>
+<title>Information Retr </title>
+<description>A book on xml infr retr</description>
+</course>
+<syllabus>
+<book>XML and Java </book>
+<article>XML semi-structured databases IEEE</article>
+</syllabus>
+</teaching>
+<research>
+XML Search</research>
+</professor>
+</xml>

@@ -1,0 +1,36 @@
+import java.io.*;
+import javax.servlet.*;
+import javax.servlet.http.*;
+
+
+public class Validate extends HttpServlet 
+
+{
+
+public void doPost(HttpServletRequest request,HttpServletResponse response)throws ServletException,IOException
+
+	{
+
+String uname=request.getParameter("username");
+String pword=request.getParameter("password");
+int counter=0;
+PrintWriter out=response.getWriter();
+/*Authenticate the users*/
+
+if(uname.equals("user")&&pword.equals("user"))
+		{
+HttpSession session=request.getSession(true);
+session.setAttribute("user",uname);
+response.sendRedirect("user.jsp");
+	}
+
+else
+	response.sendRedirect("index.jsp?data=1");
+
+
+	}
+
+
+
+
+}

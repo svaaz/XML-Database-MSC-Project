@@ -1,0 +1,43 @@
+import java.io.*;
+import javax.servlet.*;
+import javax.servlet.http.*;
+
+
+public class Validate extends HttpServlet 
+
+{
+
+public void doGet(HttpServletRequest request,HttpServletResponse response)throws ServletException,IOException
+
+	{
+
+String uname=request.getParameter("username");
+String pword=request.getParameter("password");
+int counter=0;
+PrintWriter out=response.getWriter();
+/*Authenticate the users*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	}
+
+
+
+
+
+
+
+
+}

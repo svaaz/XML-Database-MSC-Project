@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+<item orderid="1">
+<customerid>12074341</customerid>
+<status>pending</status>
+<product productid="3"></product>
+<name>OX Shirt</name>
+</item>
+<item orderid="2">
+<customerid>1992341</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="3">
+<customerid>1255341</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="4">
+<customerid>1234001</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="5">
+<customerid>1232241</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="6">
+<customerid>12334541</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="7">
+<customerid>1264564341</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="8">
+<customerid>123456441</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="9">
+<customerid>123578541</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="10">
+<customerid>12389741</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="11">
+<customerid>1277341</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="12">
+<customerid>7812341</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="13">
+<customerid>312341</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="14">
+<customerid>142341</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="15">
+<customerid>1234661</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="16">
+<customerid>1234771</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="17">
+<customerid>172341</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="18">
+<customerid>152341</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+<item orderid="19">
+<customerid>142341</customerid>
+<status>pending</status>
+<product productid="4"></product>
+<name>Wills Shirt</name>
+</item>
+
+
+</orders>

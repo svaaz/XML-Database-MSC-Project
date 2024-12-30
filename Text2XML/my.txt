@@ -1,0 +1,14 @@
+
+Font-Family=Arial
+Font-Size=12pt
+Background-Color=White
+Foreground-Color=Black
+my name is srinivasan
+i am doing msc cs
+hi bye...
+njvjmnb
+njbmnbnmbn
+nmbmnbnbn
+
+
+Well use a very simple stylesheet to output the XML document that corresponds exactly with the SAX events that our parser broadcast. Ive decided to call this echo.xsl because the stylesheet simply sounds back the input document. Keep in mind that any stylesheet could be used here. The output XML doesn't have to look anything like the SAX events that it will be receiving. The stylesheet will be "fooled" into thinking that it's dealing with XML even though we're dealing with a non-XML data structure. In an indirect way, the stylesheet becomes your "handler," or recipient of the events broadcast by the parser.

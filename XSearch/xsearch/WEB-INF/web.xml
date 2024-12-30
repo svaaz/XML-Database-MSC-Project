@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+ 
+  <servlet>
+        <servlet-name>Validate</servlet-name>
+        <servlet-class>Validate</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Validate</servlet-name>
+        <url-pattern>/Validate</url-pattern>
+    </servlet-mapping>
+<servlet>
+        <servlet-name>Buy</servlet-name>
+        <servlet-class>Buy</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Buy</servlet-name>
+        <url-pattern>/Buy</url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>Final</servlet-name>
+        <servlet-class>Final</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Final</servlet-name>
+        <url-pattern>/Final</url-pattern>
+    </servlet-mapping>
+
+
+
+
+</web-app>
